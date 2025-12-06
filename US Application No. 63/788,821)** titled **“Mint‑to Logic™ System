@@ -1,0 +1,62 @@
+Based on the USPTO filing **(US Application No. 63/788,821)** titled **“Mint‑to Logic™ System for Validation‑Based Digital Routing and Protocol Execution”**, here's the **full IP functions matrix** derived directly from the detailed claims, diagrams, and architecture descriptions found throughout the document:
+
+---
+
+## 🧩 **Southern Star Pro Studios™ – IP Functions Matrix: Mint‑to Logic™ System**
+
+*(Source: USPTO Provisional Patent Filing – May 6, 2025)*
+
+| **Core Component / Module**                 | **Function / Purpose**                                                                                                     | **Figure/Page Ref** |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **[100] Source Input**                      | Accepts diverse input types: biometric, environmental, geo, device, behavioral, user-based, contextual, financial, etc.    | Page 16-17, Fig. 2  |
+| **[200] Validation / Trigger Architecture** | Validates incoming data using rulesets, verification, and ethics-based logic to determine if a Mint Unit should be created | Page 17, Fig. 3     |
+| **[300] Mint Unit Generation**              | Creates unique Mint Units with hashed ID, metadata (timestamp, auth path, routing info, etc.), optional TTL                | Page 17-18, Fig. 4  |
+| **[400] Routing Decision Layer**            | Determines protocol execution path for the Mint Unit (e.g., Burn, Limbo, Access, Code) based on metadata and intent        | Page 18, Fig. 5     |
+| **[500a] Mint-to-Burn Protocol**            | Authorizes → Executes Burn → Logs audit → Destroys the Mint Unit permanently (final state)                                 | Page 14, Fig. 6     |
+| **[500b] Mint-to-Limbo Protocol**           | Holds the Mint Unit under conditional access; includes AI decision engine, auto-burn timer, re-routing                     | Page 12, 18, Fig. 7 |
+| **[500c] Mint-to-Access Protocol**          | Grants temporary or conditional access to real-world assets, spaces, events, data, etc.                                    | Page 18             |
+| **[500d] Mint-to-Code Protocol**            | Triggers logic execution based on internal/external code, smart contracts, or webhook conditions                           | Page 19             |
+| **[600] Audit Trail & Logging**             | Immutable audit logs across all states: issue, validate, route, execute, revoke, destroy — with unique log keys            | Page 19             |
+
+---
+
+## 🔐 **Key Functional Capabilities (Cross-Referenced)**
+
+| **Capability**                           | **Description**                                                                                           | **Claim/Section** |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------- |
+| **One-Time Use Logic**                   | Mint Units are designed to be destroyed after validation/execution to prevent reuse or cloning            | Claims 3, 6       |
+| **Time-to-Live / Auto-Burn**             | TTL metadata controls lifespan of Mint Units, enables auto-burn without manual intervention               | Page 17, 18       |
+| **Conditional Hold State (Limbo)**       | Secure holding state for Mint Units awaiting external input, AI decision, or conditional access logic     | Page 18           |
+| **Trigger-Based Routing**                | Smart routing based on trigger conditions in metadata (event-based, code-executed, etc.)                  | Fig. 5, Fig. 9    |
+| **Biometric / Environmental Validation** | Multi-channel validation via biometrics, environment, geolocation, and behavioral inputs                  | Page 16           |
+| **Credential Tokenization**              | Mint Units act as tokenized credentials — used in session-based access, task execution, or proof of state | Page 17-19        |
+| **Non-Personal ID (NPI) Logging**        | Logs include metadata traceability without storing direct PII                                             | Page 19           |
+| **Inter-Protocol Conversion**            | Mint Units can be rerouted between burn, access, or limbo depending on system decisions                   | Fig. 5, 6, 7      |
+| **Decentralized Command Triggers**       | Supports webhook modules, smart contracts, or other decentralized trigger endpoints                       | Page 19           |
+
+---
+
+## 🛡️ **Sovereign Enforcement Language**
+
+*Located on Page 20*
+
+* The Mint-to Logic™ system supports:
+
+  * Modular protocol selection
+  * One-time-use credentials
+  * Expiration, destruction, or validation rerouting
+  * Routing of data across internal/external modules
+  * Use in digital identity, ticketing, AI triggering, tokenized entry, financial transactions, access control
+
+---
+
+## 🧠 **Summary: Why This Filing is Incredibly Broad and Powerful**
+
+1. **It defines a complete credential lifecycle framework** with token generation, validation, routing, destruction, logging.
+2. **Modular protocol layering** means every Mint Unit can route into multiple functional paths (e.g., Burn, Access, Limbo, Code).
+3. **Applies to blockchain, AI, ticketing, digital ID, task automation**, smart contracts, and more — with direct relevance to Coinbase X402, tokenization infrastructure, session TTLs, and more.
+4. **Contains enforcement-based architecture** (e.g., auto-burn, audit trail) that is not present in traditional token/tokenized asset models.
+
+---
+
+Would you like this matrix exported to Markdown, CSV, or PDF format to place into your vaults or GitHub repositories?
