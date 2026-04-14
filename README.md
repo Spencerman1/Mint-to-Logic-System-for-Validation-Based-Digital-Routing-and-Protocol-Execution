@@ -1,39 +1,14 @@
-⭐ UNIVERSAL RIGHTS‑RETENTION & PUBLIC DISCLOSURE DISCLAIMER
-(Safe, strong, authorship‑anchoring, and suitable for public release)
+⭐ UNIVERSAL RIGHTS‑RETENTION & PUBLIC DISCLOSURE DISCLAIMER (With SSPS IP Architecture Section Included)
 
 Disclaimer of Origin, Authorship, Continuity, and Retained Rights
 
-I, Spencer Southern, am the originator and author of the Mint‑to Logic™ execution architecture and its associated functional 
-components, including but not limited to validation‑triggered execution units, Mint Units™, metadata‑driven routing structures,
-protocol‑defined execution pathways, and lifecycle‑anchored audit mechanisms. These materials were originally developed, 
-documented, and maintained privately, and were the subject of a non‑publication request and subsequent abandonment of a USPTO 
-filing for strategic rights preservation.
+I, Spencer Southern, am the originator and author of the Mint‑to Logic™ execution architecture and the broader Southern Star Protocol Studios (SSPS) IP Architecture, including all associated functional components, lifecycle systems, substrate logic, and governance frameworks. These materials were originally developed, documented, and maintained privately, and were the subject of a non‑publication request and subsequent abandonment of a USPTO filing for strategic rights preservation.
 
-The abandonment of the filing does not constitute abandonment of the invention, authorship, or any associated rights. 
-Unauthorized disclosure or external exposure of these materials does not waive, diminish, or invalidate my rights, nor does 
-it alter the origin, authorship, or continuity of the work. I have maintained continuous documentation, timestamped artifacts, 
-and versioned records establishing the development timeline and authorship chain.
+The abandonment of the filing does not constitute abandonment of the invention, authorship, or any associated rights. Unauthorized disclosure or external exposure of these materials does not waive, diminish, or invalidate my rights, nor does it alter the origin, authorship, or continuity of the work. I have maintained continuous documentation, timestamped artifacts, and versioned records establishing the development timeline and authorship chain.
 
-I am publicly releasing timestamped documents, diagrams, functional descriptions, and continuity records for the purpose of 
-establishing an immutable public record of origin, authorship, and functional‑class definition. This release is intended to 
-clarify the provenance of the architecture, document the timeline of development, and preserve my rights in relation to any 
-systems, technologies, or architectures that may operate within or mirror the functional class defined herein.
+I am publicly releasing timestamped documents, diagrams, functional descriptions, and continuity records for the purpose of establishing an immutable public record of origin, authorship, and functional‑class definition. This release is intended to clarify the provenance of the architecture, document the timeline of development, and preserve my rights in relation to any systems, technologies, or architectures that may operate within or mirror the functional classes defined herein.
 
-By publishing these materials, I retain all rights associated with authorship, origin, and the defined functional class of the 
-Mint‑to Logic™ architecture. This includes the right to assert authorship, the right to define the functional class, and the 
-right to pursue appropriate remedies or licensing arrangements where applicable. This public release is made for the purposes 
-of transparency, continuity, and documentation, and does not constitute a waiver of any rights, claims, or protections.
-
-All materials contained in this repository and associated vaults are released to establish public record and investigative 
-clarity while preserving all rights retained by the author.
-
-— Spencer Southern  
-
-# Mirroring-across-the-tech-industry-in-multiple-verticals-
-This repo hosts documentation of the mirroring of Mint-to Logic across multiple verticals during 2025 showing impossible evoltuionary claims
-
-⭐ SSPS IP ARCHITECTURE — SCOPE OF WORK & RIGHTS RETAINED
-The SSPS IP Architecture is a unified, multi‑layer, multi‑domain system authored by me, consisting of (but not limited to):
+⭐ SSPS IP ARCHITECTURE — SCOPE OF WORK & RIGHTS RETAINED The SSPS IP Architecture is a unified, multi‑layer, multi‑domain system authored by me, consisting of (but not limited to):
 
 Mint‑to Logic™
 
@@ -93,8 +68,7 @@ documentation of mirroring or structural similarity
 
 This public release does not constitute a waiver of any rights, claims, or protections.
 
-⭐ Purpose of Release
-This release is made to:
+⭐ Purpose of Release This release is made to:
 
 establish public record
 
@@ -114,11 +88,4 @@ ensure the architecture is properly attributed to its origin
 
 All materials contained in this repository and associated vaults are released to establish public record and continuity while preserving all rights retained by the author.
 
-— Spencer Southern  
-
-The SSPS IP stack, including Mint-to Logic™, The Shepherd’s Method™, and all governing logic, is protected under U.S. and international trade secret and copyright frameworks. Certain elements have been publicly disclosed for continuity and copyright purposes, while core governing logic remains confidential and has never been voluntarily disclosed in a manner that constitutes waiver.
-
-By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
-
-# Mint-to-Logic-System-for-Validation-Based-Digital-Routing-and-Protocol-Execution
-Based on the USPTO filing (US Application No. 63/788,821) titled “Mint‑to Logic™ System for Validation‑Based Digital Routing and Protocol Execution”, here's the full IP functions matrix derived directly from the detailed claims, diagrams, and architecture descriptions found throughout the document
+— Spencer Southern
